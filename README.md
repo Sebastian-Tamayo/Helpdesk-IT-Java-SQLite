@@ -1,6 +1,8 @@
 # Sistema Helpdesk e Inventario de Activos IT
 
 Aplicación de escritorio (*Standalone*) diseñada para la gestión de incidencias informáticas y control de inventario de hardware en entornos locales[cite: 7]. 
+<img width="788" height="552" alt="Video" src="https://github.com/user-attachments/assets/365cd64d-ebf9-4f7b-9941-c22ec8534179" />
+
 
 ## 🏗️ Arquitectura y Diseño
 El sistema está construido bajo una estricta separación de responsabilidades:
